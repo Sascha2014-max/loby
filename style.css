@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+    background-color: dimgray;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+nav {
+    background-color: DimGrey;
+    padding: 20px;
+    text-align: center;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 27px;
+}
+
+footer {
+background-color: gray;  
+}
+
+.container{
+   background: url(https://cdn.kodixauto.ru/media/image/60e2885cde230d55064c3e34); 
+   color: white;
+   display: flex;
+   justify-content: center;
+   width: 100%;
+   font-size: 27px;
+}
+
+a {
+    color: black;
+    background-color: grey;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 0px 10px;
+    margin: 10px;
+}
+
+nav a{
+     color:black;
+    text-decoration: none;
+    padding: 10px;
+}
+
+h2{
+font-size:35px;
+text-align: center;
+background-color: gray;
+}
+
+.BMW {
+    text-align: center;
+    background-color: grey;
+}
+
+h3 {
+font-size: 35px;
+background-color: gray;
+}
+
+h4 {
+font-size: 35px;
+background-color: gray;
+}
+
+h5 {
+font-size: 35px;
+background-color: gray;
+}
