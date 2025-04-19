@@ -10,14 +10,11 @@ nav {
     background-color: DimGrey;
     padding: 20px;
     text-align: center;
+    justify-content: center;
 }
 
 .nav-link {
     text-decoration: none;
-}
-
-h1 {
-
 }
 
 p {
@@ -84,4 +81,5 @@ img {
 cursor: pointer;
 max-width: 1500px;
 margin: 10px;
+justify-content: center;
 }
